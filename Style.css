@@ -1,0 +1,28 @@
+ h1{
+        color: rgb(31, 2, 245);
+    }
+    p6{
+        color: rgb(243, 8, 8);
+    }
+    <style>
+    p{
+        background-image: "C:\Users\matha\Downloads\Sanmax shopping.jpg";
+    }
+    </style>
+    button{
+           background-color: blue;
+    }
+    .ribbon {
+        position: relative;
+        top: -16px;
+        right: -706px;
+     }
+
+     button{
+        background-color: rgb(139, 139, 238);
+     }
+     
+     <div id="content">
+        <img src="https://media.istockphoto.com/id/1225752446/vector/bell-icon-vector-notification-and-alarm-symbol-flat-shape-application-interface-sign-button.jpg?s=1024x1024&w=is&k=20&c=_y_Bblen_W4_4BoIceRElTTvRhOScc_-eV1OIWAuFnI=" class="ribbon"/>
+        <div>some </div>
+     </div>
