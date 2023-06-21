@@ -51,9 +51,6 @@ img {
 </center>
 <br>
 <br>
-<!--<img src="https://previews.123rf.com/images/doomu/doomu1304/doomu130400038/19117901-blue-shopping-cart-icon-on-a-white-background.jpg" height="500" width="1500">
-<h1 style="color: red;">About us</h1>
-<h5>Welcome to Sanmax Store, your destination for a truly innovative and convenient shopping experience. We are a pioneering smart supermarket that embraces cutting-edge technology to revolutionize the way you shop. At sanmax store, we have reimagined the traditional supermarket by integrating state-of-the-art automation systems, artificial intelligence, and personalized services. Our goal is to provide you with a seamless, efficient, and enjoyable shopping journey.</h5>-->
 <!DOCTYPE html>
 <html>
   <body>
